@@ -1,2 +1,2 @@
-# computational-physics-cheat-sheet
+# computational-physics-repo
 Useful stuff 
